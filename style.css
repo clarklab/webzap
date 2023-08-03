@@ -1,0 +1,24 @@
+body{
+  background:blue; text-align:center}
+
+img{width:100%}
+
+a{text-decoration: none; color:#000}
+
+table.one{background:white;width:100%; margin-top:.4rem; font-size:20px;}
+table.one td{border:3; font-family:"Tahoma"; width:2000px; }
+
+table.two{}
+
+button{
+  border-radius:0;
+}
+
+textarea{margin-top:1rem; width:76%}
+
+form{width:80%; margin:0 auto; line-height: 1}
+
+input,button{font-size:28px; padding:5px; background:#ddd; margin-top:.8rem; display:inline-block; height:50px; box-sizing:border-box; vertical-align: middle}
+
+input[type="text"]{width:70%; font-family:"serif"}
+input[type="submit"]{width:15%; font-weight:bold;}
